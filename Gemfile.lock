@@ -1,7 +1,7 @@
 PATH
   remote: ~/Hack/01_mine/02_lib/notee
   specs:
-    notee (0.2.6)
+    notee (0.2.8)
       rails
       redcarpet
       sass
